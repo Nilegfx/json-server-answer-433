@@ -1,0 +1,15 @@
+{
+  "name": "json-server-433",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Ayoub",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "json-server": "^0.9.4"
+  }
+}
